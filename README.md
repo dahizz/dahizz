@@ -21,3 +21,4 @@ Me apasiona entender la tecnología y crear soluciones a través del código. Me
 
 ### 📫 Cómo contactarme
 - **Email:** claribeldahiara@gmail.com
+- **Linkedin:** www.linkedin.com/in/dahizz
