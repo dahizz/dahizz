@@ -1,6 +1,6 @@
 # ¡Hola! Soy Dahiara De Los Santos 👋
 
-Estudiante de Ingeniería en Computación UNAM, desde Oberá, Misiones, Argentina 🇦🇷.
+Estudiante de Ingeniería en Computación UNAM, desde Oberá, Misiones, Argentina.
 Me apasiona entender la tecnología y crear soluciones a través del código. Me gusta estar en constante aprendizaje y formar parte de la comunidad tecnológica.
 
 - 🔬 Me interesa la programación, diseño de ISAs y optimización de procesos.
